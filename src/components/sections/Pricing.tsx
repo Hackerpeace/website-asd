@@ -51,7 +51,7 @@ export const Pricing = () => {
                   <div className="mt-8 flex justify-center">
                     <Button
                       className="w-full max-w-[200px] flex items-center justify-center transform transition-transform duration-300 hover:scale-105 text-white"
-                      href={`https://web.whatsapp.com/send?phone=6282233238484&text=${encodeURIComponent(
+                      href={`https://web.whatsapp.com/send?phone=6285187257740&text=${encodeURIComponent(
                         `Halo Axioo Sentra Digital, saya tertarik dengan paket ${plan.title}. Mohon info lebih lanjut.`
                       )}`}
                       target="_blank"

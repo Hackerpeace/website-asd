@@ -24,7 +24,7 @@ export const CTA = () => {
             </Paragraph>
             <div className="mx-auto max-w-md sm:max-w-xl pt-10 dark:text-white">
               <Button
-                href="https://api.whatsapp.com/send?phone=6282233238484&text=Halo%20Axioo%20Sentra%20Digital,%20saya%20ingin%20bertanya%20tentang%20layanan."
+                href="https://api.whatsapp.com/send?phone=6285187257740&text=Halo%20Axioo%20Sentra%20Digital,%20saya%20ingin%20bertanya%20tentang%20layanan."
                 target="_blank"
                 rel="noopener noreferrer"
               >
